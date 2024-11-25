@@ -5,9 +5,9 @@ criaCartao(
     )
     
     criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quimíca',
+    'Como se forma a chuva ácida?',
+    'Os gases provenientes da queima de combustíveis reagem com o oxigênio do ar e o vapor de água, transformando-se em ácidos que são depositados na superfície terrestre através das precipitações.'
     )
     
     criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
     )
     criaCartao(
     'Lingua inglesa',
-    'Como se diz OI em inglês?',
+    'Como se diz ?',
     'Oi em ingles é HI (RAI)'
     )
     
