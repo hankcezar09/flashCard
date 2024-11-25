@@ -21,14 +21,14 @@ criaCartao(
     'Oi em ingles é HI (RAI)'
     )
     
-    cartao.innerHTML = `
+    cartao.innerHTML = '
     <div class="cartao__conteudo">
-    <h3>{categoria}</h3>
+    <h3>${categoria}</h3>
     <div class="cartao__conteudo__pergunta">
-    <p>{pergunta}</p>
+    <p>${pergunta}</p>
     </div>
     <div class="cartao__conteudo__resposta">
-    <p>{resposta}</p>
+    <p>${resposta}</p>
     </div>
     </div>
-    `
+    '
