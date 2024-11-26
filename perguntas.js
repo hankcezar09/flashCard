@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Geografia',
+    'Quais o menor e o maior país do mundo??',
+    'Vaticano e Rússia'
     )
     
     criaCartao(
@@ -12,12 +12,12 @@ criaCartao(
     
     criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é hardware??',
+    'são as peças físicas que compõem um computador, como as placas, o monitor, o teclado, a placa-mãe e o disco rígido'
     )
     criaCartao(
     'Lingua inglesa',
-    'Como se diz ?',
-    'Oi em ingles é HI (RAI)'
+    'O que a palavra legend significa em português?',
+    'lenda'
     )
     
