@@ -73,7 +73,7 @@
     font-size: 0.6rem;
     margin-top: 0.5rem;
     }
-    .cartao.active .cartao__conteudo {
+    .cartao:active .cartao__conteudo {
     transform: rotateY(180deg);
     }
     .cartao__conteudo__pergunta,

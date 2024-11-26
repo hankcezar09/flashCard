@@ -15,6 +15,7 @@ criaCartao(
     'O que é hardware??',
     'são as peças físicas que compõem um computador, como as placas, o monitor, o teclado, a placa-mãe e o disco rígido'
     )
+    
     criaCartao(
     'Lingua inglesa',
     'O que a palavra legend significa em português?',
